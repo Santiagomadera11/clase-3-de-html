@@ -1,15 +1,18 @@
 table,td, th{
  border: 1px solid rgb(0, 0, 0)
+
 }
 
 td,th{
     
     padding: 5px;
+    border-radius: 0px;
 }
 
 table {
 
     background-color: rgb(76, 190, 166);
+    border-spacing: 0px;
 }
 
 
@@ -18,7 +21,7 @@ div{
 
 background-color: rgb(71, 21, 21);
 width: 190px;
-height: 140px; 
+height: 170px; 
 padding: 20px;
 
 }   
