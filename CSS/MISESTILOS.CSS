@@ -1,0 +1,36 @@
+table,td, th{
+ border: 1px solid rgb(0, 0, 0)
+}
+
+td,th{
+    
+    padding: 5px;
+}
+
+table {
+
+    background-color: rgb(76, 190, 166);
+}
+
+
+
+div{
+
+background-color: rgb(71, 21, 21);
+width: 190px;
+height: 140px; 
+padding: 20px;
+
+}   
+
+#Santiago{
+
+    background-color: rgb(177, 0, 0);
+
+}
+
+#Santiago{
+
+    color: blue;
+    background-color: black;
+}
